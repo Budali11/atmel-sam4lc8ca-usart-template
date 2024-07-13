@@ -1,0 +1,5 @@
+/home/budali11/workbench/atmel/sam4lc8c4_template/build/CMakeFiles/EmbeddedProject.elf.dir
+/home/budali11/workbench/atmel/sam4lc8c4_template/build/CMakeFiles/download.dir
+/home/budali11/workbench/atmel/sam4lc8c4_template/build/CMakeFiles/connect.dir
+/home/budali11/workbench/atmel/sam4lc8c4_template/build/CMakeFiles/edit_cache.dir
+/home/budali11/workbench/atmel/sam4lc8c4_template/build/CMakeFiles/rebuild_cache.dir

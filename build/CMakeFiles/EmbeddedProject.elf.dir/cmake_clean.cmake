@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/common/services/clock/sam4l/dfll.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/common/services/clock/sam4l/dfll.c.o.d"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/common/services/clock/sam4l/osc.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/common/services/clock/sam4l/osc.c.o.d"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/common/services/clock/sam4l/pll.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/common/services/clock/sam4l/pll.c.o.d"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/common/services/clock/sam4l/sysclk.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/common/services/clock/sam4l/sysclk.c.o.d"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/common/utils/interrupt/interrupt_sam_nvic.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/common/utils/interrupt/interrupt_sam_nvic.c.o.d"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/common/utils/stdio/read.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/common/utils/stdio/read.c.o.d"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/common/utils/stdio/write.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/common/utils/stdio/write.c.o.d"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/boards/sam4l8_xplained_pro/init.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/boards/sam4l8_xplained_pro/init.c.o.d"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/drivers/bpm/bpm.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/drivers/bpm/bpm.c.o.d"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/drivers/flashcalw/flashcalw.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/drivers/flashcalw/flashcalw.c.o.d"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/drivers/usart/usart.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/drivers/usart/usart.c.o.d"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/drivers/wdt/wdt_sam4l.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/drivers/wdt/wdt_sam4l.c.o.d"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/utils/cmsis/sam4l/source/templates/exceptions.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/utils/cmsis/sam4l/source/templates/exceptions.c.o.d"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/utils/cmsis/sam4l/source/templates/gcc/startup_sam4l.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/utils/cmsis/sam4l/source/templates/gcc/startup_sam4l.c.o.d"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/utils/cmsis/sam4l/source/templates/system_sam4l.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/utils/cmsis/sam4l/source/templates/system_sam4l.c.o.d"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/utils/syscalls/gcc/syscalls.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/home/budali11/workbench/atmel/xdk-asf-3.52.0/sam/utils/syscalls/gcc/syscalls.c.o.d"
+  "CMakeFiles/EmbeddedProject.elf.dir/src/main.c.o"
+  "CMakeFiles/EmbeddedProject.elf.dir/src/main.c.o.d"
+  "EmbeddedProject.elf"
+  "EmbeddedProject.elf.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/EmbeddedProject.elf.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
